@@ -1,0 +1,17 @@
+[
+  {
+    "title": "AstroHack 2025",
+    "date": "2025-09-15",
+    "description": "A 48-hour hackathon focused on AI applications in astronomy, hosted by CROW at Presidency University."
+  },
+  {
+    "title": "Quantum Computing Workshop",
+    "date": "2025-10-05",
+    "description": "Hands-on workshop introducing quantum algorithms and IBM Qiskit for beginners."
+  },
+  {
+    "title": "Data Science for Public Policy",
+    "date": "2025-11-01",
+    "description": "An interdisciplinary seminar exploring data-driven decision making in governance."
+  }
+]
